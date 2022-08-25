@@ -1,0 +1,11 @@
+table{
+    background: pink;
+    text-align: center;
+    margin: 25px 0px;
+}
+
+table th{
+    background: coral;
+    color: black;
+}
+
